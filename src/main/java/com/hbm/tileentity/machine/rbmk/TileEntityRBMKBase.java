@@ -110,7 +110,7 @@ public abstract class TileEntityRBMKBase extends TileEntityLoadedBase implements
 	 * @return
 	 */
 	public double maxHeat() {
-		return 1500D;
+		return 8000D;
 	}
 
 	/**
